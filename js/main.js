@@ -12057,8 +12057,8 @@
                   null,
                   e.createElement(
                     "a",
-                    { href: "github.com/soo054141/Todo-List" },
-                    "github.com/soo054141/Todo-List"
+                    { href: "https://github.com/soo054141/Todo-List" },
+                    "https://github.com/soo054141/Todo-List"
                   )
                 )
               )

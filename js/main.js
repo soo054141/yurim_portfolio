@@ -11950,8 +11950,8 @@
                   null,
                   e.createElement(
                     "a",
-                    { href: "https://yurimi95.github.io/Login-Page/" },
-                    "https://yurimi95.github.io/Login-Page/"
+                    { href: "https://github.com/yurimi95/Login-Page" },
+                    "https://github.com/yurimi95/Login-Page"
                   )
                 )
               )
